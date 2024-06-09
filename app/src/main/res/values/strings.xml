@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kuti Weiss YIT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_images">Search Images</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="share_image">Share Image</string>
+</resources>
